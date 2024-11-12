@@ -1,0 +1,56 @@
+#accordionSidebar{
+	background: #C33764 !important;
+	background: -webkit-linear-gradient(to top, #1D2671, #C33764) !important;
+	background: -moz-linear-gradient(to top, #1D2671, #C33764) !important;
+	background: -o-linear-gradient(to top, #1D2671, #C33764) !important;
+	background: linear-gradient(to top, #1D2671, #C33764) !important;
+}
+
+.btn-primary, .bg-primary,.swal2-confirm{
+	background: #8E2DE2 !important;
+	background: -webkit-linear-gradient(to left, #4A00E0, #8E2DE2) !important;
+	background: -o-linear-gradient(to left, #4A00E0, #8E2DE2) !important;
+	background: -moz-linear-gradient(to left, #4A00E0, #8E2DE2) !important;
+	background: linear-gradient(to left, #4A00E0, #8E2DE2) !important;
+
+}
+
+.btn-success, .bg-success{
+	background: #00b09b !important;
+	background: -webkit-linear-gradient(to left, #96c93d, #00b09b) !important;
+	background: -o-linear-gradient(to left, #96c93d, #00b09b) !important;
+	background: -moz-linear-gradient(to left, #96c93d, #00b09b) !important;
+	background: linear-gradient(to left, #96c93d, #00b09b) !important;
+}
+
+.btn-secondary, .bg-secondary{
+	background: #0F2027 !important;
+	background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027) !important;
+	background: -o-linear-gradient(to left, #2C5364, #203A43, #0F2027) !important;
+	background: -moz-linear-gradient(to left, #2C5364, #203A43, #0F2027) !important;
+	background: linear-gradient(to left, #2C5364, #203A43, #0F2027) !important;
+}
+
+.btn-danger, .bg-danger, .swal2-cancel{
+	background: #FF416C !important;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C) !important;
+	background: -o-linear-gradient(to right, #FF4B2B, #FF416C) !important;
+	background: -moz-linear-gradient(to right, #FF4B2B, #FF416C) !important;
+	background: linear-gradient(to right, #FF4B2B, #FF416C) !important;
+
+}
+
+.btn-warning, .bg-warning {
+	background: #FDC830; 
+	background: -webkit-linear-gradient(to left, #F37335, #FDC830) !important; 
+	background: -o-linear-gradient(to left, #F37335, #FDC830) !important; 
+	background: -moz-linear-gradient(to left, #F37335, #FDC830) !important; 
+	background: linear-gradient(to left, #F37335, #FDC830) !important;
+
+}
+
+#author{
+	background-image: url('../img/wave.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
